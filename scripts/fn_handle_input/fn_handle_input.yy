@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fn_handle_input",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fn_handle_input",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
